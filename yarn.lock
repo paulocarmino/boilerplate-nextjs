@@ -7005,6 +7005,11 @@ hash.js@^1.0.0, hash.js@^1.0.3:
     inherits "^2.0.3"
     minimalistic-assert "^1.0.1"
 
+hashlru@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/hashlru/-/hashlru-2.3.0.tgz#5dc15928b3f6961a2056416bb3a4910216fdfb51"
+  integrity sha512-0cMsjjIC8I+D3M44pOQdsy0OHXGLVz6Z0beRuufhKa0KfaD2wGwAev6jILzXsd3/vpnNQJmWyZtIILqM1N+n5A==
+
 hast-to-hyperscript@^9.0.0:
   version "9.0.1"
   resolved "https://registry.yarnpkg.com/hast-to-hyperscript/-/hast-to-hyperscript-9.0.1.tgz#9b67fd188e4c81e8ad66f803855334173920218d"
@@ -12114,6 +12119,13 @@ synchronous-promise@^2.0.15:
   version "2.0.15"
   resolved "https://registry.yarnpkg.com/synchronous-promise/-/synchronous-promise-2.0.15.tgz#07ca1822b9de0001f5ff73595f3d08c4f720eb8e"
   integrity sha512-k8uzYIkIVwmT+TcglpdN50pS2y1BDcUnBPK9iJeGu0Pl1lOI8pD6wtzgw91Pjpe+RxtTncw32tLxs/R0yNL2Mg==
+
+tailwind-merge@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/tailwind-merge/-/tailwind-merge-1.2.0.tgz#6e425cf4e379e3620285b99ccab96abb11befdf2"
+  integrity sha512-XIY4LRLOdOYX6dN+tHlb3K6YE+uxxz9hqDciByQT6dlO4+clDGO6Rl0a4atNdxLpbDIZQFBSxS4r/4/xOKRKkA==
+  dependencies:
+    hashlru "^2.3.0"
 
 tailwindcss@^3.0.12:
   version "3.0.12"
