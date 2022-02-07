@@ -26,7 +26,7 @@ export default function Home() {
               NextAuth, pre-configured with Husky.
             </p>
             <p className="group inline-flex gap-[0.25em] items-center mt-2 text-sm font-semibold text-gray-700">
-              <a href="https://github.com/theodorusclarence/ts-nextjs-tailwind-starter">
+              <a href="https://github.com/paulocarmino/boilerplate-nextjs">
                 See the repository
               </a>
               <svg
